@@ -1,17 +1,17 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: KindLab
+subtitle: Knowledge Innovation and Discovery Lab
+description: The Knowledge Innovation and Discovery Lab is a dynamic and collaborative space dedicated to fostering creativity, research, and the exploration of new ideas. Our mission is to bridge the gap between knowledge and practical application, empowering individuals and organizations to innovate and discover solutions to complex challenges.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
+  email: wangxubin@kindlab.site
+  orcid: 0000-0001-6217-1305
+  google-scholar: 7iJ-k-sAAAAJ
+  github: kindlab-ai
   twitter: YourLabHandle
   youtube: YourLabChannel
 
